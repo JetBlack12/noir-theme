@@ -1,0 +1,22 @@
+{
+  "name": "spiderman-noir-theme",
+  "displayName": "Spider-Man Noir Theme",
+  "description": "a theme inspired by spider-man noir. :)",
+  "version": "0.0.1",
+  "publisher": "JetBlack",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Spider-Man Noir",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spider-Man Noir-color-theme.json"
+      }
+    ]
+  }
+}
